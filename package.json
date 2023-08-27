@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@shopify/polaris": "^11.13.0"
+  }
+}
